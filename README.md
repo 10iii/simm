@@ -3,6 +3,8 @@ simm
 
 ##SIMple php render of Mustache template
 
+Copyright (c) 2012 10iii All Rights Reserved. This module is released under a BSD license.
+
 A request once I met is exporting mysql result records into an Excel-read-able xml file for downloading, under PHP 4.*.
 It is just a template work but I just couldn't recall any one familiar in php. And Mustache default php render requirs PHP >= 5.2
 
@@ -12,7 +14,8 @@ So this one works in PHP 4, simply but not much efficient
 
 	simm($template, $items);
 	
-##Example	
+##Example
+[http://mustache.github.io/#demo]
 	
 	<?php
 	require_once 'simm.php';
