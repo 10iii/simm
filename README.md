@@ -15,7 +15,7 @@ So this one works in PHP 4, simply but not much efficient
 	simm($template, $items);
 	
 ##Example
-[http://mustache.github.io/#demo]
+<http://mustache.github.io/#demo>
 	
 	<?php
 	require_once 'simm.php';
